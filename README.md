@@ -1,7 +1,7 @@
 # CRUD-JSP
 
 #index
-![alt text](https://raw.github.com/juancumpian/CRUD-JSP/edit/master/index.png)
+![alt text](https://github.com/juancumpian/CRUD-JSP/blob/master/index.png)
 
 #menu
 ![alt text](https://raw.github.com/juancumpian/CRUD-JSP/edit/master/menu.png)
