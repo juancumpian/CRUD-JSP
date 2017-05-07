@@ -4,13 +4,13 @@
 ![alt text](https://github.com/juancumpian/CRUD-JSP/blob/master/index.png)
 
 #menu
-![alt text](https://raw.github.com/juancumpian/CRUD-JSP/edit/master/menu.png)
+![alt text](https://github.com/juancumpian/CRUD-JSP/blob/master/menu.png)
 
 #alta
-![alt text](https://raw.github.com/juancumpian/CRUD-JSP/edit/master/alta.png)
+![alt text](https://github.com/juancumpian/CRUD-JSP/blob/master/alta.png)
 
 #email
-![alt text](https://raw.github.com/juancumpian/CRUD-JSP/edit/master/email.png)
+![alt text](https://github.com/juancumpian/CRUD-JSP/blob/master/email.png)
 
 #modificar
-![alt text](https://raw.github.com/juancumpian/CRUD-JSP/edit/master/modificar.png)
+![alt text](https://github.com/juancumpian/CRUD-JSP/blob/master/modificar.png)
